@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1683497854 source:/home/nix/Desktop/tap_diy/practice2/bag.cpp
+	"bag.hpp"
+	<queue>
+
+1683497924 /home/nix/Desktop/tap_diy/practice2/bag.hpp
+	<vector>
+	<list>
+
+1686929089 source:/home/nix/Desktop/tap_diy/practice2/graphs.cpp
+	"graphs.hpp"
+	<iostream>
+	<queue>
+	<iostream>
+	<queue>
+	<unordered_map>
+	<vector>
+	<limits>
+
+1686928733 /home/nix/Desktop/tap_diy/practice2/graphs.hpp
+	<unordered_set>
+	<unordered_map>
+	<list>
+	<vector>
+	<utility>
+	<limits>
+	"bag.hpp"
+
+1686982986 source:/home/nix/Desktop/tap_diy/practice2/main.cpp
+	<iostream>
+	<fstream>
+	"graphs.hpp"
+	<time.h>
+
+1686982678 source:/home/nix/Desktop/tap_diy/practice2/parallel.cpp
+	"graphs.hpp"
+	"bag.hpp"
+	<omp.h>
+	<queue>
+	<iostream>
+	<algorithm>
+	<limits>
+	<fstream>
+	<cstring>
+
+1683497854 source:/home/nix/Desktop/tap_examen2/bag.cpp
+	"bag.hpp"
+	<queue>
+
+1683497924 /home/nix/Desktop/tap_examen2/bag.hpp
+	<vector>
+	<list>
+
+1686929088 source:/home/nix/Desktop/tap_examen2/graphs.cpp
+	"graphs.hpp"
+	<iostream>
+	<queue>
+	<iostream>
+	<queue>
+	<unordered_map>
+	<vector>
+	<limits>
+
+1686928732 /home/nix/Desktop/tap_examen2/graphs.hpp
+	<unordered_set>
+	<unordered_map>
+	<list>
+	<vector>
+	<utility>
+	<limits>
+	"bag.hpp"
+
+1686987296 source:/home/nix/Desktop/tap_examen2/main.cpp
+	<iostream>
+	<fstream>
+	"graphs.hpp"
+	<algorithm>
+	<time.h>
+
+1686987022 source:/home/nix/Desktop/tap_examen2/parallel.cpp
+	"graphs.hpp"
+	"bag.hpp"
+	<omp.h>
+	<iostream>
+	<algorithm>
+	<fstream>
+	<cstring>
+
